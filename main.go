@@ -1,0 +1,5 @@
+package goinit
+
+func main() {
+
+}
